@@ -1,0 +1,64 @@
+LESSON 6
+NOTE: VOICE RECORD AND LAYOUTING ONLY LEFT. NEED TO UPDATE THE ALPHABETICAL BOX THINGY ON FINAL CHALLENGE. GRAMMARS ARE ALL FIXED.
+
+1: Learning Competency: 
+At the end of this material, you should be able to compare numbers using relation symbols and orders numbers up to 1000 in increasing or decreasing order.
+
+2: Let's Learn!
+The following are the relational symbols that are used in comparing numbers:
+> Greater than (bigger number) is used if the number on the left side is greater than the number on the right side
+< Less than (smaller number) is used if the number on the right side is less than the number on the left side.
+= Less than (smaller number) is used if the number on the right side is less than on the left side.
+
+3: Take all these examples!
+Greater Than (>)
+
+4: For 765 > 98, count the digits in each number. More digits are a more significant number. 765 (3-digit number) has more digits than 89 (2-digit number).
+
+5. For 253 > 163, if the number of digits in two numbers is the same, compare the one with the highest place value. 2 is greater than 1.
+
+6: Less Than (<)
+
+7: For 39 < 123, count the digits in each number. Fewer digits, smaller numbers. 39 (2-digit number) has fewer digits than 123 (3-digit number).
+
+8: For 304 < 403, if the number of digits in two numbers is the same, compare the one with the highest place value. 3 is smaller than 4.
+
+9: Equal (=)
+
+10: When it comes to 410 = 410, Compare all digits. If the digits are the same number, the numbers are equal or equal or equal in number.
+
+11: How about we try learning it through word problems?
+
+12: Ana has 543 pesos, Rene has 541 pesos, and Ime has 478 pesos. Who has the least, and who has the biggest money?
+
+13: Compare 543 and 521.
+[yung chart, no need to voice over]
+
+14: Compare digits in the same place value:
+hundreds digits: 5 = 5
+tens digits: 4 = 4
+ones digits: 3 > 1
+Stop when the digits are already different.
+So 543 > 541
+
+15: Compare digits in the same place value:
+hundreds digits: 5 > 4
+So 541 > 478
+Ascending Order (from smallest to largest)
+478, 541, 543
+Descending Order (from largest to smallest)
+543, 541, 478
+
+16: Keep in Mind!
+In comparing numbers, use the symbols > for greater than, < for less than, and = for equal to. The ascending order in order from smallest to largest. The descending order is arranged from largest to smallest.
+
+17: Take a Challenge!
+Arrange the starting numbers in descending order (largest to smallest). Write it on a piece of paper and when you are ready, click the 'next' button to see the answers!
+
+18: Did we get the same answers? If we did, great job! You did it perfectly. :)
+
+19: Be Ready!
+
+20: Now that everything is clear, take a step and defeat the bad villains using the power of Number Sense knowledge! Remember to click the 'Proceed' button below to take the challenge. :)
+
+21: Good luck and I will be waiting for you at the entrance on the next floor!
